@@ -23,3 +23,12 @@ Debug/
 Release/
 x64/
 ipch/
+
+# Ignore Visual Studio-related files
+.vs/
+WinFormsApp1/
+
+# Ignore extra client folders (if not needed)
+client1/
+client2/
+
