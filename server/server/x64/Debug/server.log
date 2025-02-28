@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Users\Acer\source\repos\server\server\main.cpp(91,83): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Acer\source\repos\server\server\main.cpp(96,1): error C2065: 'v': undeclared identifier
+C:\Users\Acer\source\repos\server\server\main.cpp(98,9): error C2275: 'std::lock_guard<std::mutex>': expected an expression instead of a type
+C:\Users\Acer\source\repos\server\server\main.cpp(98,27): error C2146: syntax error: missing ')' before identifier 'lock'
+C:\Users\Acer\source\repos\server\server\main.cpp(105,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Acer\source\repos\server\server\main.cpp(105,5): error C2365: 'closesocket': redefinition; previous definition was 'function'
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\WinSock2.h(1674,1):
+      see declaration of 'closesocket'
+  
+C:\Users\Acer\source\repos\server\server\main.cpp(105,17): error C2065: 'clientSocket': undeclared identifier
+C:\Users\Acer\source\repos\server\server\main.cpp(106,1): error C2059: syntax error: '}'
+C:\Users\Acer\source\repos\server\server\main.cpp(106,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\Acer\source\repos\server\server\main.cpp(108,12): error C2143: syntax error: missing ';' before '{'
+C:\Users\Acer\source\repos\server\server\main.cpp(108,12): error C2447: '{': missing function header (old-style formal list?)
