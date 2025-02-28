@@ -1,0 +1,25 @@
+# Ignore Visual Studio build files
+*.exe
+*.obj
+*.dll
+*.lib
+*.pdb
+*.idb
+*.VC.db
+*.sdf
+*.ipch
+
+# Ignore user-specific settings
+*.suo
+*.user
+
+# Ignore auto-generated cache files
+*.log
+*.cache
+
+# Ignore Visual Studio temporary directories
+.vscode/
+Debug/
+Release/
+x64/
+ipch/
